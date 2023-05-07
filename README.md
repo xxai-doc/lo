@@ -2,9 +2,9 @@
 
 * [ເວັບໄຊທ໌ເອກະສານຫຼາຍພາສາ](https://github.com/xxai-doc)
 
-ລະຫັດດ້ານຫນ້າຂອງເວັບໄຊທ໌ແມ່ນແຫຼ່ງເປີດ, ຍິນດີຕ້ອນຮັບເພື່ອຊ່ວຍເພີ່ມປະສິດທິພາບການແປພາສາ
+ລະຫັດ frontend ຂອງເວັບໄຊທ໌ແມ່ນແຫຼ່ງເປີດ, ຍິນດີຕ້ອນຮັບເພື່ອຊ່ວຍເພີ່ມປະສິດທິພາບການແປພາສາ
 
-* [ລະຫັດທາງຫນ້າ](https://github.com/xxai-art/web)
+* [ລະຫັດ Frontend](https://github.com/xxai-art/web)
 * [ຊຸດພາສາສໍາລັບເວັບໄຊທ໌ທັງຫມົດ](https://github.com/xxai-art/web/tree/main/i18n)
 * [ຊຸດພາສາສໍາລັບໂມດູນເຂົ້າສູ່ລະບົບ](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [ເວັບໄຊທ໌ເອກະສານຫຼາຍພາສາ](https://github.com/xxai-doc)
