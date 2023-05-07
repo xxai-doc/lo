@@ -7,3 +7,4 @@
 * [ລະຫັດທາງຫນ້າ](https://github.com/xxai-art/web)
 * [ຊຸດພາສາສໍາລັບເວັບໄຊທ໌ທັງຫມົດ](https://github.com/xxai-art/web/tree/main/i18n)
 * [ຊຸດພາສາສໍາລັບໂມດູນເຂົ້າສູ່ລະບົບ](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [ເວັບໄຊທ໌ເອກະສານຫຼາຍພາສາ](https://github.com/xxai-doc)
