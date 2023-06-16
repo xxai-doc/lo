@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , ເພີ່ມຄຸນສົມບັດບາງຢ່າງບົນພື້ນຖານຂອງ syntax coffeescript, ເບິ່ງ [coffee_plus](./coffee_plus.md) .
 
-* ປະກາດຕົວແປ
+## ປະກາດຕົວແປ
 
 ```
 + var1, var2
 ```
 
-* ປ້າຍປະກາດ
+## ປ້າຍປະກາດ
 
 `:$` ແມ່ນໃຊ້ກັບ [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* ການ​ນໍາ​ເຂົ້າ​ໄວ​
+## ການ​ນໍາ​ເຂົ້າ​ໄວ​
 
 ```
 > zx/globals:
